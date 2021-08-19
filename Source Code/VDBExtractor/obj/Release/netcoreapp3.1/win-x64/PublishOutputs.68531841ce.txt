@@ -1,0 +1,5 @@
+C:\Users\bit86\source\repos\WinFormsApp1\WinFormsApp1\bin\Publish\VDBExtractor.exe
+C:\Users\bit86\source\repos\WinFormsApp1\WinFormsApp1\bin\Publish\VDBExtractor.dll
+C:\Users\bit86\source\repos\WinFormsApp1\WinFormsApp1\bin\Publish\VDBExtractor.deps.json
+C:\Users\bit86\source\repos\WinFormsApp1\WinFormsApp1\bin\Publish\VDBExtractor.runtimeconfig.json
+C:\Users\bit86\source\repos\WinFormsApp1\WinFormsApp1\bin\Publish\VDBExtractor.pdb

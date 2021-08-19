@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uem9r/uOUxZaXOVNUx7ozwLEgbLWox7PAb4yrIBEmM4ALUTlqW3BriTM8bmTgiemAsKjKz2gvrBDbBJbqs09+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bit86\\source\\repos\\WinFormsApp1\\WinFormsApp1\\VDBExtractor.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bit86\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.14\\microsoft.netcore.app.host.osx-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
